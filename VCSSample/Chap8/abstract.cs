@@ -1,0 +1,27 @@
+using System;
+namespace Chap8_8
+{
+    // 抽象クラス（基本クラス）
+    abstract class Music
+    {
+        public abstract void GetInfo();     // 抽象メソッド
+    }
+
+    // 派生クラス
+    class Song : Music
+    {
+        public override void GetInfo()      // overrideをつける
+        {
+            Console.WriteLine("Song");
+        }
+    }
+
+    class MainClass
+    {
+        static void Main()
+        {
+            Song s = new Song();
+            s.GetInfo();                   // 出力値：Song
+        }
+    }
+}

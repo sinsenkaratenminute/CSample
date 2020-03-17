@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\admin\\Documents\\C#コード\\VCS2017Community_Sample\\Chapter9\\MyHouseKeepingBook\\MyHouseKeepingBook\\MyHouseKeepingBook.csproj",
+  "TargetFramework": "v4.5.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

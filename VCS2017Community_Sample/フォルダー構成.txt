@@ -1,0 +1,170 @@
+『作って覚えるVisual C# 2017 デスクトップアプリ入門』
+フォルダー構成
+
+VCS2017Community_Sample
+├─Chapter2
+│  ├─2.4.1 デザイン画面で値を設定する
+│  │  └─WindowsFormsApp1
+│  │      └─WindowsFormsApp1
+│  │          └─Properties
+│  ├─2.4.2 プログラムコードで値を設定する
+│  │  └─WindowsFormsApp1
+│  │      └─WindowsFormsApp1
+│  │          └─Properties
+│  ├─2.5 練習1
+│  │  └─WindowsFormsApp1
+│  │      └─WindowsFormsApp1
+│  │          └─Properties
+│  └─2.5 練習2
+│      └─WindowsFormsApp1
+│          └─WindowsFormsApp1
+│              └─Properties
+├─Chapter3
+│  ├─3.2 プロパティ等
+│  │  └─WindowsFormsApp1
+│  │      └─WindowsFormsApp1
+│  │          └─Properties
+│  ├─3.6 ポリモーフィズム（多態性）
+│  │  └─AnimalPolymorphismSample
+│  │      └─AnimalPolymorphismSample
+│  │          ├─Properties
+│  │          └─Resources
+│  └─3.8 インターフェイス
+│      └─AnimalPolymorphismSample
+│          └─AnimalPolymorphismSample
+│              ├─Properties
+│              └─Resources
+├─Chapter4
+│  ├─4.3 画面の設計②（画面の作成）
+│  │  └─SimpleCalc
+│  │      └─SimpleCalc
+│  │          └─Properties
+│  ├─4.5 ボタンをクリックしたときの処理の書き方
+│  │  └─SimpleCalc
+│  │      └─SimpleCalc
+│  │          └─Properties
+│  └─4.7 サブルーチンの使い方
+│      └─SimpleCalc
+│          └─SimpleCalc
+│              └─Properties
+├─Chapter5
+│  ├─5.1 「タイマー」の作成
+│  │  └─Timer
+│  │      └─Timer
+│  │          └─Properties
+│  ├─5.2 「付箋メモ」の作成
+│  │  └─Fusen
+│  │      └─Fusen
+│  │          └─Properties
+│  ├─5.3 「今日の占い」の作成
+│  │  └─Uranai
+│  │      └─Uranai
+│  │          ├─Properties
+│  │          └─Resources
+│  ├─5.3 「今日の占い」の作成（サンプル画像未）
+│  │  └─Uranai
+│  │      └─Uranai
+│  │          ├─Properties
+│  │          └─Resources
+│  ├─5.4「間違い探しゲーム」の作成
+│  │  └─KanjiDifferenceHunt
+│  │      └─KanjiDifferenceHunt
+│  │          └─Properties
+│  ├─5.5 「簡易Gmailチェッカー」の作成
+│  │  └─GMailCheck
+│  │      ├─GMailCheck
+│  │      │  └─Properties
+│  │      └─packages
+│  │          └─OpenPop.NET.2.0.6.1120
+│  │              └─lib
+│  │                  ├─net20
+│  │                  └─net40
+│  ├─5.6 「Twitter投稿」 アプリの作成
+│  │  └─TwitterPost
+│  │      ├─packages
+│  │      │  ├─CoreTweet.0.8.0.384
+│  │      │  │  └─lib
+│  │      │  │      ├─monoandroid10
+│  │      │  │      ├─monotouch10
+│  │      │  │      ├─net35
+│  │      │  │      ├─net40
+│  │      │  │      ├─net45
+│  │      │  │      ├─netstandard1.1
+│  │      │  │      ├─netstandard1.5
+│  │      │  │      ├─portable-win81+wpa81
+│  │      │  │      ├─portable45-net45+win8+wpa81
+│  │      │  │      └─xamarinios10
+│  │      │  └─Newtonsoft.Json.9.0.1
+│  │      │      ├─lib
+│  │      │      │  ├─net20
+│  │      │      │  ├─net35
+│  │      │      │  ├─net40
+│  │      │      │  ├─net45
+│  │      │      │  ├─netstandard1.0
+│  │      │      │  ├─portable-net40+sl5+wp80+win8+wpa81
+│  │      │      │  └─portable-net45+wp80+win8+wpa81
+│  │      │      └─tools
+│  │      └─TwitterPost
+│  │          └─Properties
+│  └─5.7「間違いボール探しゲーム」の作成
+│      └─MoveCircle
+│          └─MoveCircle
+│              └─Properties
+├─Chapter7
+│  ├─7.5 画面の設計②（画面のレイアウト）
+│  │  └─MyHouseKeepingBook
+│  │      └─MyHouseKeepingBook
+│  │          └─Properties
+│  ├─7.6 画面の設計③（メニュー項目の作成）
+│  │  └─MyHouseKeepingBook
+│  │      └─MyHouseKeepingBook
+│  │          └─Properties
+│  ├─7.8 データの設計②（型付きデータセットの作成）
+│  │  └─MyHouseKeepingBook
+│  │      └─MyHouseKeepingBook
+│  │          └─Properties
+│  ├─7.9 フォームの処理①（フォームの作成）
+│  │   └─MyHouseKeepingBook
+│  │       └─MyHouseKeepingBook
+│  │           └─Properties
+│  ├─7.10 フォームの処理②（データの扱い方）
+│  │  └─MyHouseKeepingBook
+│  │      └─MyHouseKeepingBook
+│  │          └─Properties
+│  ├─7.11 フォームの処理③（データの格納）
+│  │  └─MyHouseKeepingBook
+│  │      └─MyHouseKeepingBook
+│  │          └─Properties
+│  └─7.12 サブルーチンの具体的な使い方
+│       └─MyHouseKeepingBook
+│           └─MyHouseKeepingBook
+│               └─Properties
+├─Chapter8
+│  ├─8.3 文字列の処理
+│  │  └─Chap8-3
+│  │      └─Chap8-3
+│  │          └─Properties
+│  ├─8.4 配列によるデータ管理、8.5 ループ処理
+│  │  └─Chap8-4
+│  │      └─Chap8-4
+│  │          └─Properties
+│  ├─8.6 ファイルの入出力①（データの保存機能の実装）
+│  │  └─MyHouseKeepingBook
+│  │      └─MyHouseKeepingBook
+│  │          └─Properties
+│  ├─8.7 ファイルの入出力②（データの読み込み機能の実装）
+│  │  └─MyHouseKeepingBook
+│  │      └─MyHouseKeepingBook
+│  │          └─Properties
+│  ├─8.8 データの変更機能の実装
+│  │  └─MyHouseKeepingBook
+│  │      └─MyHouseKeepingBook
+│  │          └─Properties
+│  └─8.9 データの削除機能の実装
+│      └─MyHouseKeepingBook
+│          └─MyHouseKeepingBook
+│              └─Properties
+└─Chapter9
+    └─MyHouseKeepingBook
+        └─MyHouseKeepingBook
+            └─Properties

@@ -1,0 +1,11 @@
+C:\Users\admin\Documents\C#コード\VCS2017Community_Sample\Chapter8\8.9 データの削除機能の実装\MyHouseKeepingBook\MyHouseKeepingBook\bin\Debug\MyHouseKeepingBook.exe.config
+C:\Users\admin\Documents\C#コード\VCS2017Community_Sample\Chapter8\8.9 データの削除機能の実装\MyHouseKeepingBook\MyHouseKeepingBook\bin\Debug\MyHouseKeepingBook.exe
+C:\Users\admin\Documents\C#コード\VCS2017Community_Sample\Chapter8\8.9 データの削除機能の実装\MyHouseKeepingBook\MyHouseKeepingBook\bin\Debug\MyHouseKeepingBook.pdb
+C:\Users\admin\Documents\C#コード\VCS2017Community_Sample\Chapter8\8.9 データの削除機能の実装\MyHouseKeepingBook\MyHouseKeepingBook\obj\Debug\MyHouseKeepingBook.csprojAssemblyReference.cache
+C:\Users\admin\Documents\C#コード\VCS2017Community_Sample\Chapter8\8.9 データの削除機能の実装\MyHouseKeepingBook\MyHouseKeepingBook\obj\Debug\MyHouseKeepingBook.Form1.resources
+C:\Users\admin\Documents\C#コード\VCS2017Community_Sample\Chapter8\8.9 データの削除機能の実装\MyHouseKeepingBook\MyHouseKeepingBook\obj\Debug\MyHouseKeepingBook.ItemForm.resources
+C:\Users\admin\Documents\C#コード\VCS2017Community_Sample\Chapter8\8.9 データの削除機能の実装\MyHouseKeepingBook\MyHouseKeepingBook\obj\Debug\MyHouseKeepingBook.Properties.Resources.resources
+C:\Users\admin\Documents\C#コード\VCS2017Community_Sample\Chapter8\8.9 データの削除機能の実装\MyHouseKeepingBook\MyHouseKeepingBook\obj\Debug\MyHouseKeepingBook.csproj.GenerateResource.cache
+C:\Users\admin\Documents\C#コード\VCS2017Community_Sample\Chapter8\8.9 データの削除機能の実装\MyHouseKeepingBook\MyHouseKeepingBook\obj\Debug\MyHouseKeepingBook.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\C#コード\VCS2017Community_Sample\Chapter8\8.9 データの削除機能の実装\MyHouseKeepingBook\MyHouseKeepingBook\obj\Debug\MyHouseKeepingBook.exe
+C:\Users\admin\Documents\C#コード\VCS2017Community_Sample\Chapter8\8.9 データの削除機能の実装\MyHouseKeepingBook\MyHouseKeepingBook\obj\Debug\MyHouseKeepingBook.pdb

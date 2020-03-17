@@ -1,0 +1,9 @@
+C:\Users\ken\Documents\Visual Studio 2017\Projects\VCSSample\column1\obj\Debug\column1.csproj.CoreCompileInputs.cache
+C:\Users\ken\Documents\Visual Studio 2017\Projects\VCSSample\column1\bin\Debug\column1.exe.config
+C:\Users\ken\Documents\Visual Studio 2017\Projects\VCSSample\column1\bin\Debug\column1.exe
+C:\Users\ken\Documents\Visual Studio 2017\Projects\VCSSample\column1\bin\Debug\column1.pdb
+C:\Users\ken\Documents\Visual Studio 2017\Projects\VCSSample\column1\obj\Debug\column1.exe
+C:\Users\ken\Documents\Visual Studio 2017\Projects\VCSSample\column1\obj\Debug\column1.pdb
+C:\Users\ken\Documents\Visual Studio 2017\Projects\VCSSample\column1\obj\Debug\column1.csprojResolveAssemblyReference.cache
+C:\Users\ken\Documents\Visual Studio 2017\Projects\VCSSample\column1\bin\Debug\System.ValueTuple.dll
+C:\Users\ken\Documents\Visual Studio 2017\Projects\VCSSample\column1\bin\Debug\System.ValueTuple.xml
